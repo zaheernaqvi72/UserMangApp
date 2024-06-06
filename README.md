@@ -1,4 +1,4 @@
-# [User Management App](https://user-mang-app.vercel.app/)
+# User Management App
 
 This is a simple React application that allows users to create and manage their accounts. It provides features such as registration, login, profile management, password change, and account details editing.
 
