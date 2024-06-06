@@ -1,0 +1,29 @@
+.bordered-container {
+  border: 2px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.bordered-container h2 {
+  margin-bottom: 20px;
+}
+
+.bordered-container .form-group {
+  margin-bottom: 15px;
+}
+
+.bordered-container .btn {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+}
+
+.alert {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+}

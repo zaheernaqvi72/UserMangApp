@@ -1,0 +1,17 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding-top: 50px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+}
